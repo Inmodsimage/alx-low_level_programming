@@ -14,4 +14,6 @@ char *string_toupper(char *n);
 
 char *cap_string(char *str);
 
+char *leet(char *n)
+
 
